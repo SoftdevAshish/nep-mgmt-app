@@ -1,2 +1,2 @@
-# nep-mgmt
+# nep-mgmt-app
 Nepvent management System
